@@ -15,6 +15,7 @@ Investors want to maximize returns while minimizing risk across different assets
 - Calculates and visualizes portfolio weights for optimal return
 
 ## 📈 Sample Output
+![image](https://github.com/user-attachments/assets/24e0b726-6d36-43b8-8476-82cd379851ce)
 
 
 ## 🚀 How to Run
